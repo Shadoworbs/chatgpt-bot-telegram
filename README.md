@@ -8,9 +8,9 @@ node index.js
 
 #### To run locally in termux: copy and paste below codes <BR> <BR>
 first clone this repo:<BR>
-<code> git clone https://github.com/Shadoworbs/chatgpt-bot-telegram </code> <BR>
-`cd chatgpt-bot-telegram` <BR>
-`npm i` <BR>
-`apt install nodejs` <BR>
-`nano .env` (ADD TELEGRAM BOT API AND OPENAI API) <BR>
-`node index.js`
+* <code> git clone https://github.com/Shadoworbs/chatgpt-bot-telegram </code> <BR>
+* `cd chatgpt-bot-telegram` <BR>
+* `npm i` <BR>
+* `apt install nodejs` <BR>
+* `nano .env` (ADD TELEGRAM BOT API AND OPENAI API) <BR>
+* `node index.js`
